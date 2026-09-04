@@ -48,7 +48,7 @@ A minimal, decentralized e-voting dApp — no relay, no backend analytics.
 ## Run it
 
 ```bash
-docker compose up --build
+docker compose up ---build
 ```
 
 Then open **http://localhost:8080**.
